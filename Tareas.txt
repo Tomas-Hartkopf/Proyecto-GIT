@@ -2,4 +2,9 @@
 2 Segunda tarea
 3 Tercer tarea
 4 Cuarta tarea
-5 quinta tarea
+5 Quinta tarea
+6 Sexta tarea
+7 Septima tarea
+8 Octava tarea
+9 Novena tarea
+10 Decima tarea
