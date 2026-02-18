@@ -1,0 +1,7 @@
+# Archivos temporales de Claude Code
+tmpclaude-*-cwd
+
+# Otros archivos temporales
+*.tmp
+*.log
+.DS_Store
