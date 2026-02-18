@@ -66,10 +66,14 @@ Aprendimos que Antigravity no es solo un editor, sino un asistente que puede:
 | `git status` | Ver qué ha cambiado |
 | `git add .` | Preparar todos los cambios |
 | `git commit -m "..."` | Guardar cambios permanentemente |
-| `git log --oneline --graph` | Ver el historial visualmente |
+| `git log --oneline (una linea por commit) --graph(de forma grafica) --all(todas las ramas)` | Ver el historial visualmente |
 | `git checkout -b <nombre>` | Crear y saltar a una rama nueva |
-| `git merge <nombre>` | Traer cambios de otra rama |
-| `git push origin main` | Subir cambios a GitHub |
+| `git merge <nombre>` | Traer cambios de otra rama | (el merge se realiza trayendo los cambios de otra rama a la rama actual)
+
+Repositorio remoto
+| `git clone (URL)` | Descargar repositorio |
+`git clone https://github.com/usuario/proyecto.git mi-carpeta`| Descargar repositorio en carpeta especifica|
+| `git (CLI) push (Accion) origin (Ubicacion) main (Destino)` | Subir cambios a GitHub |
 | `git fetch origin` | Ver qué hay de nuevo en el servidor |
 
 ---
